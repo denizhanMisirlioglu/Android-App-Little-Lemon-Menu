@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.littlelemon.menu"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:5:5-34:19
+12        android:allowBackup="true"
+12-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\PC\.gradle\caches\transforms-3\2157ea49cdc3c5b2f06f3fe4a50dab4f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.LittleLemonMenu" >
+22-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:13:9-53
+23        <activity
+23-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:15:9-29:20
+24            android:name="com.littlelemon.menu.MainActivity"
+24-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:16:13-41
+25            android:exported="true"
+25-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:17:13-36
+26            android:label="@string/app_name"
+26-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:18:13-45
+27            android:theme="@style/Theme.LittleLemonMenu" >
+27-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:19:13-57
+28            <intent-filter>
+28-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:21:17-69
+29-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:23:17-77
+31-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33
+34            <meta-data
+34-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:26:13-28:36
+35                android:name="android.app.lib_name"
+35-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:27:17-52
+36                android:value="" />
+36-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:28:17-33
+37        </activity>
+38        <activity
+38-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:30:9-33:60
+39            android:name="com.littlelemon.menu.ProductActivity"
+39-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:31:13-44
+40            android:exported="true"
+40-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:32:13-36
+41            android:theme="@style/Theme.LittleLemonMenu" />
+41-->C:\Users\PC\AndroidStudioProjects\LittleLemonFoodMenuAdvancedKotlin\app\src\main\AndroidManifest.xml:33:13-57
+42        <activity
+42-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\5203297084e57ffb9f94571a20ff8f2b\transformed\ui-tooling-1.1.1\AndroidManifest.xml:25:9-27:39
+43            android:name="androidx.compose.ui.tooling.PreviewActivity"
+43-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\5203297084e57ffb9f94571a20ff8f2b\transformed\ui-tooling-1.1.1\AndroidManifest.xml:26:13-71
+44            android:exported="true" />
+44-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\5203297084e57ffb9f94571a20ff8f2b\transformed\ui-tooling-1.1.1\AndroidManifest.xml:27:13-36
+45        <activity
+45-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\b44f2e4f1d45b4060c6ebe524b35bff6\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:25:9-27:39
+46            android:name="androidx.activity.ComponentActivity"
+46-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\b44f2e4f1d45b4060c6ebe524b35bff6\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:26:13-63
+47            android:exported="true" />
+47-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\PC\.gradle\caches\transforms-3\b44f2e4f1d45b4060c6ebe524b35bff6\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:27:13-36
+48
+49        <provider
+49-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:27:13-67
+51            android:authorities="com.littlelemon.menu.androidx-startup"
+51-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+54-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
+55                android:value="androidx.startup" />
+55-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
+56        </provider>
+57
+58        <receiver
+58-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
+59            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+59-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
+60            android:directBootAware="false"
+60-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
+61            android:enabled="true"
+61-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
+62            android:exported="true"
+62-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
+63            android:permission="android.permission.DUMP" >
+63-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
+64            <intent-filter>
+64-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
+65                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+65-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
+65-->[androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\PC\.gradle\caches\transforms-3\a1e7f5a712ef2321f6d771302bda0d55\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
+66            </intent-filter>
+67        </receiver>
+68    </application>
+69
+70</manifest>

@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_quiche_lorraine.jpeg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/quiche_lorraine.jpeg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_espresso.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/espresso.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_salmon_en_papillote.jpeg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/salmon_en_papillote.jpeg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_green_tea.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/green_tea.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_onion_soup.jpeg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/onion_soup.jpeg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_mocha.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/mocha.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_croissant.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/croissant.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_black_tea.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/black_tea.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_custard_tart.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/custard_tart.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_latte.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/latte.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_lasagna.jpeg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/lasagna.jpeg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_cappuccino.jpg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/cappuccino.jpg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_bouillabaisse.jpeg.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/bouillabaisse.jpeg"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_boeuf_bourguignon.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/boeuf_bourguignon.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/menu_products_menu.xml.flat",
+        "source": "com.littlelemon.menu.app-main-37:/menu/products_menu.xml"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.littlelemon.menu.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.littlelemon.menu.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
